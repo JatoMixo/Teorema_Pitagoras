@@ -1,2 +1,3 @@
 # Teorema_Pitagoras
- Sirve para calcular un cateto o la hipotenusa de un triángulo rectángulo.
+Sirve para calcular un cateto o la hipotenusa de un triángulo rectángulo.
+Programado por JatoMixo
