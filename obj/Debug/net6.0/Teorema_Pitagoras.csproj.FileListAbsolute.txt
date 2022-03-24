@@ -1,0 +1,15 @@
+D:\Miguel\Programas\Teorema_Pitagoras\bin\Debug\net6.0\Teorema_Pitagoras.exe
+D:\Miguel\Programas\Teorema_Pitagoras\bin\Debug\net6.0\Teorema_Pitagoras.deps.json
+D:\Miguel\Programas\Teorema_Pitagoras\bin\Debug\net6.0\Teorema_Pitagoras.runtimeconfig.json
+D:\Miguel\Programas\Teorema_Pitagoras\bin\Debug\net6.0\Teorema_Pitagoras.dll
+D:\Miguel\Programas\Teorema_Pitagoras\bin\Debug\net6.0\ref\Teorema_Pitagoras.dll
+D:\Miguel\Programas\Teorema_Pitagoras\bin\Debug\net6.0\Teorema_Pitagoras.pdb
+D:\Miguel\Programas\Teorema_Pitagoras\obj\Debug\net6.0\Teorema_Pitagoras.csproj.AssemblyReference.cache
+D:\Miguel\Programas\Teorema_Pitagoras\obj\Debug\net6.0\Teorema_Pitagoras.GeneratedMSBuildEditorConfig.editorconfig
+D:\Miguel\Programas\Teorema_Pitagoras\obj\Debug\net6.0\Teorema_Pitagoras.AssemblyInfoInputs.cache
+D:\Miguel\Programas\Teorema_Pitagoras\obj\Debug\net6.0\Teorema_Pitagoras.AssemblyInfo.cs
+D:\Miguel\Programas\Teorema_Pitagoras\obj\Debug\net6.0\Teorema_Pitagoras.csproj.CoreCompileInputs.cache
+D:\Miguel\Programas\Teorema_Pitagoras\obj\Debug\net6.0\Teorema_Pitagoras.dll
+D:\Miguel\Programas\Teorema_Pitagoras\obj\Debug\net6.0\ref\Teorema_Pitagoras.dll
+D:\Miguel\Programas\Teorema_Pitagoras\obj\Debug\net6.0\Teorema_Pitagoras.pdb
+D:\Miguel\Programas\Teorema_Pitagoras\obj\Debug\net6.0\Teorema_Pitagoras.genruntimeconfig.cache
