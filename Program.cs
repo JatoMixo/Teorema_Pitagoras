@@ -8,7 +8,6 @@ namespace Teorema_Pitagoras
         {
             Apariencia();
             PedirCalculo();
-            Console.ReadKey();
         }
 
         static void PedirCalculo()
@@ -41,13 +40,13 @@ namespace Teorema_Pitagoras
             float longH = (float)Convert.ToDouble(Console.ReadLine());
 
             Console.ForegroundColor = System.ConsoleColor.Green;
-            Console.Write("Longitud cateto: ");
+            Console.Write("Longitud cateto 1: ");
             Console.ForegroundColor = System.ConsoleColor.DarkMagenta;
             float longC = (float)Convert.ToDouble(Console.ReadLine());
 
             Console.ForegroundColor = System.ConsoleColor.Green;
             double longC2 = CalcularCateto(longH, longC);
-            Console.Write("Cateto mide: ");
+            Console.Write("Longitud cateto 2: ");
             Console.ForegroundColor = System.ConsoleColor.DarkMagenta;
             Console.WriteLine(longC2);
 
@@ -76,18 +75,18 @@ namespace Teorema_Pitagoras
         static void Hipotenusa()
         {
             Console.ForegroundColor = System.ConsoleColor.Green;
-            Console.Write("Cateto 1: ");
+            Console.Write("Longitud cateto 1: ");
             Console.ForegroundColor = System.ConsoleColor.DarkMagenta;
             float _longC1 = (float)Convert.ToDouble(Console.ReadLine());
 
             Console.ForegroundColor = System.ConsoleColor.Green;
-            Console.Write("Cateto 2: ");
+            Console.Write("Longitud cateto 2: ");
             Console.ForegroundColor = System.ConsoleColor.DarkMagenta;
             float _longC2 = (float)Convert.ToDouble(Console.ReadLine());
 
             double _longH = CalcularHipotenusa(_longC1, _longC2);
             Console.ForegroundColor = System.ConsoleColor.Green;
-            Console.Write("Hipotenusa: ");
+            Console.Write("Longitud hipotenusa: ");
             Console.ForegroundColor = System.ConsoleColor.DarkMagenta;
             Console.WriteLine(_longH);
 

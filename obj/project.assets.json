@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Miguel\\Programas\\Teorema_Pitagoras\\Teorema_Pitagoras.csproj",
+      "projectUniqueName": "D:\\Miguel\\Programas\\Teorema_Pitagoras_Github\\Teorema_Pitagoras.csproj",
       "projectName": "Teorema_Pitagoras",
-      "projectPath": "D:\\Miguel\\Programas\\Teorema_Pitagoras\\Teorema_Pitagoras.csproj",
+      "projectPath": "D:\\Miguel\\Programas\\Teorema_Pitagoras_Github\\Teorema_Pitagoras.csproj",
       "packagesPath": "C:\\Users\\jatom\\.nuget\\packages\\",
-      "outputPath": "D:\\Miguel\\Programas\\Teorema_Pitagoras\\obj\\",
+      "outputPath": "D:\\Miguel\\Programas\\Teorema_Pitagoras_Github\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jatom\\AppData\\Roaming\\NuGet\\NuGet.Config"
